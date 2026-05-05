@@ -1,0 +1,13 @@
+{
+  "uuid": "eci-seat-share-panel@local",
+  "name": "ECI Seat Share Panel",
+  "description": "Shows compact won/leading counts in fixed positions: TVK, ADMK, DMK.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+  ],
+  "version": 5
+}
